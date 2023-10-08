@@ -1,6 +1,6 @@
 # Text-mining-and-sentimental-analysis
 Text mining and sentimental analysis
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samford12/Text-mining-and-sentimental-analysis/blob/main/Sentimental_Analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samford12/Algorithm-for-massive-data/blob/main/link_analysis_Project_Final.ipynb)
 
 This project applies Text Mining and Sentiment Analysis to pharmaceutical data from Kaggle. 
 It involves data preprocessing, text mining, and model development using techniques like K-Means, Random Forest Classifier, 
